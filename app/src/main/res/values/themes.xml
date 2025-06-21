@@ -1,0 +1,23 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EnrollEdit" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/backgroundColor</item>
+        <item name="android:textColor">@color/textColor</item>
+
+    </style>
+
+    <style name="Theme.EnrollEdit" parent="Base.Theme.EnrollEdit" />
+    <color name="colorPrimary">#FFD3B4</color> <!-- Lighter color for primary elements -->
+    <color name="colorSecondary">#9D8189</color> <!-- Slightly muted color for secondary elements -->
+    <color name="colorAccent">#BDB1CC</color> <!-- Accent color for emphasis -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Light background for better contrast -->
+    <color name="textColor">#212121</color> <!-- Dark text color for readability -->
+    <color name="textColorHeading">#000000</color> <!-- Very dark text color for headings -->
+    <color name="textColorBody">#333333</color> <!-- Slightly lighter text color for body text -->
+</resources>
