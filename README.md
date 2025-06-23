@@ -3,15 +3,13 @@
 **EnrollEdits** is a Kotlin-based app that automates the process of editing Microsoft Word documents. Using the Apache POI library, it can replace header and footer text (such as enrollment numbers or IDs) and generate multiple `.docx` files in one go — perfect for institutions or bulk documentation workflows.
 
 ---
-
-![EnrollEdits Banner](screenshots/enrolledits-banner.png)
-
-## 📸 Screenshots
+## 📱 App Screenshots
 
 | Home Screen | Dark Mode |
-|-------------|-----------------|----------------|----------------|
-| ![Home](https://github.com/user-attachments/assets/6157f685-8b3c-48e7-b464-6b13cd04801e) | ![Dark Mode](https://github.com/user-attachments/assets/6b990afb-e901-4c1f-974b-8ad75eaa3b58) | 
----
+|-------------|-----------|
+| ![Home](https://github.com/user-attachments/assets/6157f685-8b3c-48e7-b464-6b13cd04801e) | ![Dark Mode](https://github.com/user-attachments/assets/6b990afb-e901-4c1f-974b-8ad75eaa3b58) |
+
+
 
 ## ✨ Key Features
 
